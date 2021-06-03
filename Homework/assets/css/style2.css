@@ -1,0 +1,22 @@
+table{
+    width:500px;
+    text-align:right;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+th{
+    padding: 10px;
+}
+td{
+    padding: 5px;
+}
+
+.table-header{
+    background-color: #77C063;
+    color: white;
+    text-align: left;
+}
+
+.company{
+    text-align: left;
+}
