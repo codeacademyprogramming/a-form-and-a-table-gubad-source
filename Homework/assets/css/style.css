@@ -1,0 +1,53 @@
+
+
+/* Register */
+body{
+    overflow-x: hidden;
+    background-color: black;
+}
+
+a{
+    text-decoration-line: none;
+}
+h4{
+    text-align: center;
+}
+
+#register-section{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+  
+}
+
+form{
+    width: 400px;
+    position: relative;
+    margin-top: 5%;
+    left: 35%;
+    background-color: white;
+    padding:40px;
+}
+input{
+    margin-top: 5px;
+    width:90%;
+    margin-bottom:10px;
+    padding:12px;
+    border-color: green;
+}
+
+.submit{
+    background-color: #77C063;
+    color:white;
+   height:40px;
+   width:98%;
+   margin-top: 20px;
+}
+.checkbox{
+    width: 10px;
+    margin-right: 10px;
+}
+
+
